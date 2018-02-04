@@ -1,3 +1,5 @@
+# Style Conference
+
 ## Synopsis
 
 This is train project from [Learn to Code HTML & CSS](https://learn.shayhowe.com/html-css/) course. Simple site of a fictional conference in Chicago. 
